@@ -1,1 +1,8 @@
-# simple-nodejs-web-frameworkThis project builds a day-by-day simple web application framework from scratch. It's tutorial project for constructing an general purpose architecture framework. * Day 1: URL Routing from scratch
+# simple-iot-runtime
+
+simple-iot-runtime is trying to build a lightweight web application framework for IoT devices. It's a tutorial project for constructing a general purpose unikernel VM image. The steps are listed below.
+
+* Build [Runtime.js](https://github.com/runtimejs/runtime) image
+* Fast URL Routing from scratch
+* CoAP modules
+* (TBD)
