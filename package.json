@@ -1,0 +1,22 @@
+{
+  "name": "simple-iot-runtime",
+  "version": "1.0.0",
+  "description": "simple-iot-runtime is trying to build a lightweight web application framework for IoT devices. It's a tutorial project for constructing a general purpose unikernel VM image. The steps are listed below.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jollen/simple-iot-runtime.git"
+  },
+  "author": "jollen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jollen/simple-iot-runtime/issues"
+  },
+  "homepage": "https://github.com/jollen/simple-iot-runtime#readme",
+  "dependencies": {
+    "runtimejs": "^0.2.5"
+  }
+}
